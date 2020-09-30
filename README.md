@@ -8,6 +8,6 @@ git push MyMaps GitHub/master:master
 git push -u MyEffect master -f
 
 添加远程分支  
-git remote set-url --add origin git@github.com:Fla22pp/MyMaps.git
+git remote set-url --add origin git@github.com
 
 
