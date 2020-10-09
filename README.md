@@ -12,4 +12,8 @@ git push -u MyEffect master -f
 添加远程url:  
 git remote set-url --add origin git@github.com
 
+查看远程配置：
+git remote -v
+
+
 
