@@ -15,5 +15,5 @@ git remote set-url --add origin git@github.com
 查看远程配置：
 git remote -v
 
-
-
+移除远程地址
+git remote rm origin
