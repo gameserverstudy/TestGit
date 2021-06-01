@@ -17,3 +17,7 @@ git remote -v
 
 移除远程地址
 git remote rm origin
+
+首先，先增加第一个地址 git remote add origin <url1>
+然后增加第二个地址 git remote set-url --add origin <url2>
+增加第三个地址 git remote set-url --add origin <url3>
